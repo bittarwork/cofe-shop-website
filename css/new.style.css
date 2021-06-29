@@ -1,0 +1,116 @@
+body {
+    background-color: #3a4a58 ;
+    font-family: Century Gothic ;
+}
+.continar {
+    background-color: white;
+    margin: auto;
+    width: 1000px;
+}
+img[alt=img1] {
+    width: 1000px;
+}
+h1 {
+    padding: 50px;
+    text-align: center;
+    color: #ffffff;
+    margin: auto;
+    font-size: 50px;
+}
+h1 i {
+    color: #fff;
+}
+h2 {
+    font-size: 35px;
+    padding: 50px;
+    text-align: center;
+    color: #9c6c3a;
+}
+.first-table {
+    width:940px;
+    font-size: 25px;
+    margin: auto;
+    padding: 30px;
+    border-collapse: collapse;
+    color: #3b3c3c;
+    line-height: 40px;
+}
+.seconde-table {
+    width:940px;
+    font-size: 25px;
+    margin: auto;
+    padding: 30px;
+    border-collapse: collapse;
+    color: #3b3c3c;
+    line-height: 40px;
+}
+th {
+    line-height 50px;px;
+    font-variant: normal;
+    font-family: Century Gothic ;
+    text-align: left;
+    background-color: #c4cdd6;
+    line-height: 50px;
+}
+tr:nth-child(odd) {
+background-color: #e5e8ed;
+}
+.third-section {
+    width:100%;
+}
+figure {
+    width:250px;
+    display: inline-block;
+}
+.third-section img {
+    width: 250px;
+}
+figcaption { 
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 30px;
+    font-size: 25px;
+    color: #000;
+}
+
+.line {
+    width: 600px;
+    height: 2px;
+    background-color: #cccccc;
+    margin: auto;
+}
+.furth-section {
+    width: 1000px;
+    margin: auto;
+}
+.about-caffe-box {
+    width: 1000px;
+    font-size: 25px;
+    color: #99999a;
+    margin: auto;
+    padding-inline: 100px;
+}
+.last-section {
+    font-size: 25px;
+    padding-bottom: 50px;
+    color: #99999a;
+    text-align: center;
+}
+i {
+    font-size: 50px;
+    width: 50px;
+    color: #cccccc;
+}
+footer i:hover {
+    color: crimson;
+}
+footer {
+    padding: 25px;
+    font-size: 25px;
+    color: #99999a ;
+    text-align: center;
+}
+a {
+    text-decoration : none ;
+    color: #000;
+}
